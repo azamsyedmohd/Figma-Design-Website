@@ -205,7 +205,7 @@
 }
 #fourth {
   width: 100vw;
-  height: 600px;
+  height: 630px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -216,4 +216,60 @@
   margin: auto;
   border-radius: 20px;
   background-color: #fff9f4;
+}
+.dental-issues-article {
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.dental-issues {
+  width: 70%;
+  text-align: center;
+  font-weight: 700px;
+  font-size: 40px;
+}
+.issues-icons {
+  width: 80%;
+  margin: auto;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  column-gap: 15px;
+  row-gap: 25px;
+}
+.icon-image {
+  padding: 10px;
+  width: 100px;
+  height: 80px;
+  background-color: white;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.font-issues {
+  text-align: center;
+}
+.issues-image {
+  width: 30px;
+  height: 40px;
+  margin-bottom: 5px;
+}
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+.search-img {
+  width: 14px;
+  height: 14px;
+}
+.arrow-img {
+  width: 12px;
+  height: 12px;
 }
