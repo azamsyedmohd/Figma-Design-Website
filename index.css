@@ -311,3 +311,154 @@
 .picture {
   height: 100%;
 }
+#seventh {
+  width: 80%;
+  margin: auto;
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: no-wrap;
+  overflow: hidden;
+  gap: 20px;
+}
+.slider {
+  height: 100%;
+  width: 750px;
+}
+#footer {
+  width: 100%;
+  height: 500px;
+  background-color: #3d2010;
+}
+.footer-flex {
+  padding-top: 40px;
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  gap: 120px;
+}
+.each-flex-col {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.footer-heading {
+  font-family: Raleway;
+  font-weight: 500px;
+  font-size: 20px;
+  color: white;
+  margin-bottom: 10px;
+  font-style: italic;
+}
+.footer-text {
+  font-weight: lighter;
+  font-size: 12px;
+  color: gray;
+}
+.social-icons {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+}
+.social-icon {
+  width: 25px;
+  height: 25px;
+}
+.footer-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-image {
+  width: 400px;
+  height: 150px;
+}
+.footer-paragraph {
+  text-align: center;
+  margin-top: 30px;
+  font-weight: 300px;
+  font-family: sans-serif;
+  color: gray;
+}
+#freqently-asked {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.frequently-questions {
+  width: 80%;
+  height: 80%;
+}
+.frequently-paragraph {
+  font-family: Raleway;
+  font-weight: 400px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+.question {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 30px;
+  margin-bottom: 30px;
+}
+.particular-question {
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.question-para {
+  font-size: large;
+}
+#beyond-dentistry {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.beyond-dentistry-section {
+  width: 80%;
+  height: 80%;
+  background-color: #fff9f4;
+  border-radius: 10px;
+}
+.dentistry {
+  font-weight: 500px;
+  font-family: Raleway;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 7px;
+}
+.mapping {
+  font-weight: 300px;
+  font-family: sans-serif;
+  font-size: 15px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+.dentistry-flex {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 35px;
+  flex-wrap: wrap;
+}
+.dentistry-box {
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+  background-color: white;
+}
