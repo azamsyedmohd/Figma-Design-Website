@@ -470,7 +470,7 @@
   justify-content: center;
   align-items: center;
   background-color: #fff1e6;
-  margin-top: 40px;
+  margin-top: 80px;
 }
 .journey {
   width: 80%;
@@ -516,5 +516,45 @@
 }
 .fifth-article-child {
   flex-grow: 1;
+  height: 100%;
+}
+.hand-shake {
+  width: 100%;
+  height: 100%;
+}
+#trust-companies {
+  padding-top: 80px;
+  width: 80%;
+  margin: auto;
+  height: 500px;
+  margin-bottom: 50px;
+}
+#specialists {
+  background-color: #fff1e6;
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.specialists-section {
+  width: 90%;
+  height: 80%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+.specialists-section-child {
+  height: 100%;
+  width: auto;
+}
+#border {
+  width: 100%;
+  height: 50px;
+  margin-bottom: 80px;
+}
+.border-image {
+  width: 100%;
   height: 100%;
 }
